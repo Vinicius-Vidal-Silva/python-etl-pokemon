@@ -1,0 +1,18 @@
+# ambiente
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# venv
+venv/
+.env/
+
+# vscode
+.vscode/
+
+# arquivos de banco locais
+*.mdf
+*.ldf
