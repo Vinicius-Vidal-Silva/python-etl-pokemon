@@ -245,7 +245,4 @@ This project was developed as a hands-on data engineering practice focused on re
 ```
 
 ---
-- 🧠 Ou montar um post para LinkedIn anunciando o projeto
-
-Qual próximo passo, Vinicius?
 ```
